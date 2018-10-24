@@ -9,7 +9,7 @@ I was in a team from University of North Florida for IEEE Xtreme competition. My
 ``
 ``
 
-Solutions to problems ( 3 lines of code only ):
+Solutions to problems ( two lines of code! ):
 
 https://github.com/ahmed-moussa/ieeextreme/wiki/Barrett-Reduction
 
